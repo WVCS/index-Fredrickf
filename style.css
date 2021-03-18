@@ -1,3 +1,10 @@
-body {
+body {Background-color: lightblue}
 
+img {width: 300px}
+h3 {
+  text-decoration: overline;
+}
+
+h4 {
+  text-shadow: 2px 2px 5px red;
 }
